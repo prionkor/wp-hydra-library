@@ -1,0 +1,19 @@
+{
+    "name": "prionkor/wp-hydra-library",
+    "description": "Helper Functions and Classes for WordPress Development",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Sisir Kanti Adhikari",
+            "email": "sisir@hydrasolutions.com"
+        }
+    ],
+    "version": "0.1",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "files": [
+            "includes.php"
+        ]
+    }
+}
